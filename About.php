@@ -1,4 +1,4 @@
-   <div class="hero-wrap js-fullheight" style="background-image: url('./img/carousel-2.jpg');" data-stellar-background-ratio="0.5">
+   <div class="hero-wrap js-fullheight" style="background-image: url('./img/about uss.png');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text js-fullheight align-items-end justify-content-start" data-scrollax-parent="true">
@@ -17,7 +17,11 @@
           <h2 class="mb-4"><span>We Are The Trajectory Craft Agency</span></h2>
         </div>
         <div>
-  				<p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word "and" and the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.</p>
+  				<p>Welcome to Trajectory Craft, your premier destination for connecting ambitious professionals with their dream careers. At Trajectory Craft, we understand that finding the right job is more than just matching a resume to a job description—it's about crafting a path that aligns with your skills, passions, and aspirations.
+
+Our platform is designed to be user-friendly and efficient, offering a seamless job search experience that caters to both job seekers and employers. Whether you're a recent graduate looking to start your career, a seasoned professional seeking new challenges, or a company in search of top talent, Trajectory Craft is here to facilitate those connections and help you navigate your professional journey.
+
+Explore a wide range of job listings across various industries, gain insights into market trends, and take advantage of our personalized recommendations. With Trajectory Craft, your next opportunity is just a few clicks away. Join us today and let’s craft your career trajectory together.</p>
   			</div>
     	</div>
     </section>
