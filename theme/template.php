@@ -243,7 +243,7 @@
         <div class="col-lg-6">
           <div class="copyright">
             <p>
-              <span>&copy; Rakibul Anas Minhaj 2024 All right reserved.  
+              <span>&copy; Rakibul Anas Minhaj 2023 All right reserved.  
             </p>
           </div>
         </div>

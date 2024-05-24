@@ -1,5 +1,5 @@
 
-    <div class="hero-wrap js-fullheight" style="background-image: url('./img/carousel-1.jpg');" data-stellar-background-ratio="0.5">
+    <div class="hero-wrap js-fullheight" style="background-image: url('./img/carousel-2.jpg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start" data-scrollax-parent="true">
@@ -664,7 +664,7 @@
               </a>
               <div class="text mt-3">
                 <div class="meta mb-2">
-                  <div><a href="#">December 2, 2018</a></div>
+                  <div><a href="#">December 2, 2023</a></div>
                   <div><a href="#">Admin</a></div>
                   <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                 </div>
@@ -679,7 +679,7 @@
               </a>
               <div class="text mt-3">
                 <div class="meta mb-2">
-                  <div><a href="#">December 2, 2018</a></div>
+                  <div><a href="#">December 2, 2023</a></div>
                   <div><a href="#">Admin</a></div>
                   <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                 </div>
@@ -694,7 +694,7 @@
               </a>
               <div class="text mt-3">
                 <div class="meta mb-2">
-                  <div><a href="#">December 2, 2018</a></div>
+                  <div><a href="#">December 2, 2023</a></div>
                   <div><a href="#">Admin</a></div>
                   <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                 </div>
@@ -709,7 +709,7 @@
               </a>
               <div class="text mt-3">
                 <div class="meta mb-2">
-                  <div><a href="#">December 2, 2018</a></div>
+                  <div><a href="#">December 2, 2023</a></div>
                   <div><a href="#">Admin</a></div>
                   <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                 </div>
